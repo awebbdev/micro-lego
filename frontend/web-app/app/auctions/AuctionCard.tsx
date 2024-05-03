@@ -1,4 +1,4 @@
-import { Auction } from '@/types/types'
+import { Auction } from '@/types'
 import React from 'react'
 import CountdownTimer from './CountdownTimer'
 import SetImage from './SetImage'
